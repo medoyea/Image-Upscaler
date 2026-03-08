@@ -8,7 +8,7 @@ A clean, AI-powered image upscaler built with [Real-ESRGAN](https://github.com/x
 
 ## Demo
 
-![App Screenshot](Assets/screenshot.jpeg)
+![App Screenshot](Assets/Screenshot.jpeg)
 
 ---
 
